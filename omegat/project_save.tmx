@@ -6,10 +6,138 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>And what makes a modern portrait continue to appear modern, even decades after it was created?</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142035Z" creationid="lucia" creationdate="20240517T142035Z">
+        <seg>¿Y qué hace que un retrato moderno siga pareciendo moderno, incluso décadas después de su creación?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dutch, 1853–1890</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T141933Z" creationid="lucia" creationdate="20240517T141933Z">
+        <seg>Holanda, 1853–1890</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For Vincent van Gogh (1853–1890), the answer was clear: color.</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142048Z" creationid="lucia" creationdate="20240517T142040Z">
+        <seg>Para Vincent van Gogh (1853–1890), la respuesta estaba clara: el color.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the lithograph &lt;t0/&gt;The Potato Eaters&lt;t1/&gt; (1885), he began by drawing and painting over a hundred studies of impoverished workers in the rural village of Nuenen (located in the region of the Netherlands where he was born).</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142209Z" creationid="lucia" creationdate="20240517T142209Z">
+        <seg>Para la litografía &lt;t0/&gt;The Potato Eaters&lt;t1/&gt; (1885), comenzó dibujando y pintando más de un centenar de estudios de trabajadores empobrecidos en el pueblo rural de Nuenen (ubicado en la región de los Países Bajos donde nació).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I seek it by way of color.”&lt;t0/&gt;1&lt;t1/&gt; With its vivid palette, spirited handling, and exuberant background, &lt;t2/&gt;Portrait of Joseph Roulin&lt;t3/&gt; (1889) gives form to Van Gogh’s conception of the modern portrait.</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142132Z" creationid="lucia" creationdate="20240517T142132Z">
+        <seg>Lo busco a través del color ".&lt;t0/&gt; 1&lt;t1/&gt; Con su paleta vívida, su manejo enérgico y su fondo exuberante, &lt;t2/&gt;Retrato de Joseph Roulin&lt;t3/&gt; (1889) da forma a la concepción de Van Gogh del retrato moderno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Roulin—a postal worker whose close-knit family and progressive political views appealed to Van Gogh—is painted in colors that depart from those seen in nature: his forehead, cheeks, and nose are streaked with green and his beard is flecked with blue and purple.</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142151Z" creationid="lucia" creationdate="20240517T142151Z">
+        <seg>Roulin, un cartero cuya familia unida y opiniones políticas progresistas atrajeron a Van Gogh, está pintado en colores que se apartan de los que se ven en la naturaleza: su frente, mejillas y nariz están rayadas de verde y su barba está salpicada de azul y púrpura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These studies culminated in a large-scale oil painting of five farmworkers gathered around a humble meal, a painting intended to convey the considerable hardships of life in the countryside.</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142211Z" creationid="lucia" creationdate="20240517T142211Z">
+        <seg>Estos estudios culminaron en una pintura al óleo a gran escala de cinco trabajadores agrícolas reunidos en torno a una humilde comida, una pintura destinada a transmitir las considerables dificultades de la vida en el campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This unconventional use of color was vital to Van Gogh’s ongoing effort to create what he described as “portraits which would look like apparitions to people a century later.”&lt;t4/&gt;2&lt;t5/&gt; He believed that he could make his paintings endure only by abandoning “photographic resemblance” and striving for “passionate expression.”&lt;t6/&gt;3</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142200Z" creationid="lucia" creationdate="20240517T142200Z">
+        <seg>Este uso no convencional del color fue vital para el esfuerzo continuo de Van Gogh por crear lo que describió como "retratos que parecerían apariciones a las personas un siglo después"&lt;t4/&gt;2.&lt;t5/&gt; Creía que podía hacer que sus pinturas perduraran solo abandonando el "parecido fotográfico" y esforzándose por la "expresión apasionada"&lt;t6/&gt;3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Vincent van Gogh</seg>
       </tuv>
       <tuv lang="es" changeid="lucia" changedate="20240517T141858Z" creationid="lucia" creationdate="20240517T141858Z">
         <seg>Vincent van Gogh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What makes a portrait modern?</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142029Z" creationid="lucia" creationdate="20240517T142029Z">
+        <seg>¿Qué hace que un retrato sea moderno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When Van Gogh had resolved to become an artist nearly a decade earlier—following stints as an art dealer, teacher, and missionary—his first works centered on the human figure.</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142208Z" creationid="lucia" creationdate="20240517T142208Z">
+        <seg>Cuando Van Gogh había resuelto convertirse en artista casi una década antes, después de períodos como marchante de arte, maestro y misionero, sus primeras obras se centraron en la figura humana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>but to be untangled—in the real world.”</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142025Z" creationid="lucia" creationdate="20240517T142025Z">
+        <seg>sino desenredarse en el mundo real ".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>of the painting...I find it ready-made—</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142022Z" creationid="lucia" creationdate="20240517T142022Z">
+        <seg>del cuadro...lo encuentro ya hecho-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>subject, but still I don’t invent the whole</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142015Z" creationid="lucia" creationdate="20240517T142015Z">
+        <seg>tema, pero aún así no invento todo el</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I really have wanted to make it so that people get the idea that these folk, who are eating their potatoes by the light of their little lamp, have tilled the earth themselves with these hands they are putting in the dish,” Van Gogh wrote to his brother, Theo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142215Z" creationid="lucia" creationdate="20240517T142215Z">
+        <seg>"Realmente he querido hacer que la gente tenga la idea de que estas personas, que están comiendo sus papas a la luz de su pequeña lámpara, han labrado la tierra con estas manos que están poniendo en el plato", escribió Van Gogh a su hermano, Theo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I sometimes make changes to the</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142010Z" creationid="lucia" creationdate="20240517T142010Z">
+        <seg>"A veces hago cambios en el</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“What I’m most passionate about, much much more than all the rest in my profession,” he enthused to his sister, Willemien, “is the portrait, the modern portrait.</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T142117Z" creationid="lucia" creationdate="20240517T142117Z">
+        <seg>"Lo que más me apasiona, mucho más que todo el resto de mi profesión", le dijo entusiasmado a su hermana, Willemien, "es el retrato, el retrato moderno.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
