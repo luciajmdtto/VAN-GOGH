@@ -1,0 +1,14 @@
+17/5/24, 16:13
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	       46	    1155	                     5754	                     6839	        1	
+Pendientes:       	       46	    1155	                     5754	                     6839	        1	
+Únicos:           	       45	    1152	                     5740	                     6823	        1	
+Pendientes únicos:	       45	    1152	                     5740	                     6823	        1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+van gogh.docx    	                46	                  46	              45	                         45	          1155	               1155	           1152	                      1152	                           5754	                                5754	                            5740	                                       5740	                           6839	                                6839	                            6823	                                       6823	
