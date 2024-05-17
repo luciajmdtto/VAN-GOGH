@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Far from static, Van Gogh presents the earth as an undulating mass that rises and falls, ripples and whirls.</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T143742Z" creationid="lucia" creationdate="20240517T143742Z">
+        <seg>Lejos de ser estática, Van Gogh presenta la Tierra como una masa ondulante que sube y baja, se ondula y gira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For Vincent van Gogh (1853–1890), the answer was clear: color.</seg>
       </tuv>
       <tuv lang="es" changeid="lucia" changedate="20240517T142048Z" creationid="lucia" creationdate="20240517T142040Z">
@@ -70,10 +78,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Like the brightly pigmented and boldly twisted olive trees, the hills, mountains, and clouds surrounding them seethe with color.</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T143711Z" creationid="lucia" creationdate="20240517T143711Z">
+        <seg>Al igual que los olivos de brillantes pigmentos y audazmente retorcidos, las colinas, montañas y nubes que los rodean están llenas de color.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One real-world subject Van Gogh painted repeatedly was the landscape, terrestrial and celestial.</seg>
       </tuv>
-      <tuv lang="es" changeid="Carmen" changedate="20240517T142107Z" creationid="Carmen" creationdate="20240517T142107Z">
-        <seg>Un tema del mundo real que Van Gogh pintaba a menudo eran los paisajes, terrestres y celestiales.</seg>
+      <tuv lang="es" changeid="lucia" changedate="20240517T143554Z" creationid="lucia" creationdate="20240517T143554Z">
+        <seg>Un tema del mundo real que Van Gogh pintó repetidamente fue el paisaje, terrestre y celestial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>While in Arles, the artist depicted fields, orchards, and meadows, portraying the seasonal rhythms of rural life with a reverence modeled after that of &lt;t0/&gt;Jean-François Millet&lt;t1/&gt;, an artist he deeply admired.</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T143600Z" creationid="lucia" creationdate="20240517T143600Z">
+        <seg>Estando en Arles, el artista representó campos, huertos y prados, retratando los ritmos estacionales de la vida rural con una fidelidad inspirada en Jean-François Millet, un artista que admiraba bastante. Sus primeras obras reflejaban ese ambiente proletario cargado de crítica social, en las que se hace patente tanto la influencia de los pintores de campesinos Jules Breton y Jean-François Millet como su interés por la literatura realista de la época.&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>While in Arles, the artist depicted fields, orchards, and meadows, portraying the seasonal rhythms of rural life with a reverence modeled after that of Jean-François Millet, an artist he deeply admired.</seg>
       </tuv>
       <tuv lang="es" changeid="Carmen" changedate="20240517T142846Z" creationid="Carmen" creationdate="20240517T142734Z">
@@ -210,6 +234,14 @@
       </tuv>
       <tuv lang="es" changeid="lucia" changedate="20240517T142217Z" creationid="lucia" creationdate="20240517T142217Z">
         <seg>"Y así se habla de TRABAJO MANUAL y de que, por lo tanto, se han &lt;t2/&gt;ganado honestamente&lt;t3/&gt; su comida"&lt;t4/&gt;.4&lt;t5/&gt; Van Gogh comparó el acabado grueso de los comedores de &lt;t6/&gt;patatas&lt;t7/&gt; pintados con las telas tejidas en casa que usaban sus cuidadores, ambas producto del trabajo manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“But very difficult, very difficult.”&lt;t2/&gt;6&lt;t3/&gt; This broad range of pigments is present in &lt;t4/&gt;The Olive Trees&lt;t5/&gt; (1889), from the orange, ochre, and purple of the gnarled trunks to the blue, green, white, and yellow of the curled leaves.</seg>
+      </tuv>
+      <tuv lang="es" changeid="lucia" changedate="20240517T143700Z" creationid="lucia" creationdate="20240517T143700Z">
+        <seg>“Pero muy difícil, muy difícil”.&lt;t2/&gt;6&lt;t3/&gt; Esta amplia gama de pigmentos está presente en &lt;t4/&gt;Los olivos&lt;t5/&gt; (1889), desde el naranja, el ocre y el morado de los troncos nudosos hasta el azul, verde, blanco y amarillo de las hojas rizadas.</seg>
       </tuv>
     </tu>
     <tu>
